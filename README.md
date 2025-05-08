@@ -1,16 +1,9 @@
-# fitness_tracker
+# Fitness Tracker App
 
-A new Flutter project.
+A simple fitness tracking app built with Flutter. Users can start workouts, track exercise duration, calories burned, and view workout details.
 
-## Getting Started
+## How to Run
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo and navigate to the project folder.
+2. Run `flutter pub get` to install dependencies.
+3. Use `flutter run` to launch the app on Chrome or an emulator.
